@@ -21,3 +21,10 @@ The **Card** class holds information about a single playing card (including the 
 To easily handle the dragging event, when a drag event is started the pile that was clicked gets split into two piles (one that remains still, and another temporarily pile that is absolute positioned). The temporarily file gets merged with another pile when the drag event is complete, or is appended back to the original pile.
 
 **The GUI implementation** uses the root content pane to display all game content and the default frame layered pane to display the top menu bar. The layered pane is also used to display the absolutepositioned temp pile while it is being dragged.
+
+# License
+
+
+[![cc-by](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png)](https://creativecommons.org/licenses/by/2.0/)
+
+Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these
