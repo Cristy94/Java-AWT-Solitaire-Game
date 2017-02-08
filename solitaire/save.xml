@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="false" suit="Diamonds" value="8"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="false" suit="Spades" value="Q"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="true" suit="Spades" value="8"/>
+    <card isReversed="true" suit="Diamonds" value="2"/>
+    <card isReversed="false" suit="Clubs" value="3"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="true" suit="Clubs" value="A"/>
+    <card isReversed="true" suit="Hearts" value="10"/>
+    <card isReversed="true" suit="Diamonds" value="3"/>
+    <card isReversed="false" suit="Clubs" value="6"/>
+    <card isReversed="false" suit="Hearts" value="5"/>
+    <card isReversed="false" suit="Spades" value="4"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="true" suit="Hearts" value="2"/>
+    <card isReversed="true" suit="Spades" value="5"/>
+    <card isReversed="true" suit="Hearts" value="Q"/>
+    <card isReversed="false" suit="Clubs" value="K"/>
+    <card isReversed="false" suit="Diamonds" value="Q"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="true" suit="Spades" value="6"/>
+    <card isReversed="true" suit="Hearts" value="4"/>
+    <card isReversed="true" suit="Diamonds" value="7"/>
+    <card isReversed="false" suit="Clubs" value="10"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="true" suit="Clubs" value="Q"/>
+    <card isReversed="true" suit="Clubs" value="9"/>
+    <card isReversed="true" suit="Spades" value="10"/>
+    <card isReversed="true" suit="Diamonds" value="10"/>
+    <card isReversed="true" suit="Diamonds" value="9"/>
+    <card isReversed="true" suit="Diamonds" value="J"/>
+    <card isReversed="false" suit="Hearts" value="8"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="false" suit="Diamonds" value="A"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="false" suit="Spades" value="A"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="true" suit="Hearts" value="A"/>
+    <card isReversed="true" suit="Clubs" value="J"/>
+    <card isReversed="true" suit="Clubs" value="4"/>
+    <card isReversed="true" suit="Spades" value="K"/>
+    <card isReversed="true" suit="Hearts" value="K"/>
+    <card isReversed="true" suit="Spades" value="J"/>
+    <card isReversed="true" suit="Clubs" value="2"/>
+    <card isReversed="true" suit="Hearts" value="J"/>
+    <card isReversed="true" suit="Clubs" value="7"/>
+    <card isReversed="true" suit="Spades" value="9"/>
+    <card isReversed="true" suit="Spades" value="7"/>
+    <card isReversed="true" suit="Hearts" value="3"/>
+    <card isReversed="true" suit="Clubs" value="5"/>
+    <card isReversed="true" suit="Diamonds" value="K"/>
+    <card isReversed="true" suit="Diamonds" value="4"/>
+    <card isReversed="true" suit="Spades" value="2"/>
+    <card isReversed="true" suit="Spades" value="3"/>
+    <card isReversed="true" suit="Diamonds" value="5"/>
+  </pile>
+  <pile>
+    <card isReversed="false" suit="Spades" value="100"/>
+    <card isReversed="false" suit="Hearts" value="6"/>
+    <card isReversed="false" suit="Diamonds" value="6"/>
+    <card isReversed="false" suit="Clubs" value="8"/>
+    <card isReversed="false" suit="Hearts" value="7"/>
+    <card isReversed="false" suit="Hearts" value="9"/>
+  </pile>
+</game>
